@@ -59,6 +59,14 @@
   pricing_source: https://checklyhq.com/pricing/
   updated_at: 2019-07-30
 
+- name: ClickUp
+  url: https://clickup.com
+  base_pricing: $9
+  sso_pricing: $19
+  percent_increase: 211%
+  pricing_source: https://clickup.com/pricing
+  updated_at: 2023-07-07
+  
 - name: Clockify
   url: https://clockify.me
   base_pricing: $4.99 per u/m
